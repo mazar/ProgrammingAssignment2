@@ -1,14 +1,14 @@
-## Put comments here that give an overall description of what your
-## functions do
+## functions for cached version of Matrix Inversion
+## Programming Assignment 2 - Massoud Mazar
 
-## Write a short comment describing this function
+## Cached Matrix Object
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## Cached version of the R Solve function
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
