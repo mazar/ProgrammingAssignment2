@@ -1,7 +1,7 @@
 ## functions for cached version of Matrix Inversion
 ## Programming Assignment 2 - Massoud Mazar
 
-## Cached Matrix Object
+## Cached Matrix Object which has get, set, getInverse and setInverse functions
 
 makeCacheMatrix <- function(x = matrix()) {
     cachedInverse <- NULL
